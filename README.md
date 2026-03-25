@@ -1,9 +1,12 @@
 # Telecom-Customer-Churn-end-to-end-project
 # 🚀 Telecom Customer Churn Analysis
 📌 Project Overview
--Developed an end-to-end data analysis project to identify customer churn patterns in the telecom industry
+-Developed an end-to-end data analysis project to identify customer churn patterns in     the telecom industry
+
 -Extracted actionable insights to improve customer retention strategies
+
 -Focused on data-driven decision-making using real-world dataset
+
 # 🎯 Key Objectives
 -Analyze customer behavior and churn trends
 -Perform data cleaning and preprocessing
